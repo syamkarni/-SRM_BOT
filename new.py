@@ -34,5 +34,5 @@ def monitor_website(url):
         time.sleep(2)  # Check every 10 seconds (adjust as needed)
 
 # Example usage
-website_url = "http://192.168.1.8:8080"
+website_url = "https://academia.srmist.edu.in"
 monitor_website(website_url)
